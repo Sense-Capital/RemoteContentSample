@@ -17,8 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: a4c7b5c078ce511459a21fe20b8da5a4
   m_SerializeEntries:
-  - m_GUID: 99c9720ab356a0642a771bea13969a05
-    m_Address: SampleScene
+  - m_GUID: 951027285fa6f324e9fedb052c597f69
+    m_Address: MyRemoteScene
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
